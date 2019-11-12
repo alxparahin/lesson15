@@ -1,10 +1,10 @@
-package ru.sbrf.lessons.parcer;
+package ru.sbrf.lessons.app;
 
-import ru.sbrf.lessons.parcer.filters.FileFilter;
-import ru.sbrf.lessons.parcer.loaders.ConnectionProperties;
-import ru.sbrf.lessons.parcer.loaders.HTTPLoader;
-import ru.sbrf.lessons.parcer.loaders.Loader;
-import ru.sbrf.lessons.parcer.loaders.SSHLoader;
+import ru.sbrf.lessons.app.filters.FileFilter;
+import ru.sbrf.lessons.app.properties.ConnectionProperties;
+import ru.sbrf.lessons.app.loaders.HTTPLoader;
+import ru.sbrf.lessons.app.loaders.Loader;
+import ru.sbrf.lessons.app.loaders.SSHLoader;
 import java.util.Date;
 
 public class Main {

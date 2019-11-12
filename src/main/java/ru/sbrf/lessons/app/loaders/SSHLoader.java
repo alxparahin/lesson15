@@ -1,8 +1,9 @@
-package ru.sbrf.lessons.parcer.loaders;
+package ru.sbrf.lessons.app.loaders;
 
-import ru.sbrf.lessons.parcer.filters.FileFilter;
+import ru.sbrf.lessons.app.filters.FileFilter;
+import ru.sbrf.lessons.app.properties.ConnectionProperties;
 
-public class SSHLoader  implements Loader{
+public class SSHLoader implements Loader{
 
     public void download(ConnectionProperties connectionProperties, FileFilter fileFilter) {
 

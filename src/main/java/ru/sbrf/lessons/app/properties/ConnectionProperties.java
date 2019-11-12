@@ -1,4 +1,4 @@
-package ru.sbrf.lessons.parcer.loaders;
+package ru.sbrf.lessons.app.properties;
 
 public class ConnectionProperties {
     private String login;

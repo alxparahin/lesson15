@@ -1,4 +1,4 @@
-package ru.sbrf.lessons.parcer.filters;
+package ru.sbrf.lessons.app.filters;
 
 import java.util.Date;
 
