@@ -1,2 +1,4 @@
 # Default ignored files
-/workspace.xml
+/target/
+/lesson15.iml
+/.idea/
